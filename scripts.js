@@ -1,2 +1,2 @@
 console.log ('here');
-// a comment
+// a comment has been added
